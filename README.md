@@ -14,5 +14,9 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sewandev&show_icons=true&theme=dark)
 
+![Profile views](https://komarev.com/ghpvc/?username=sewandev)  
+
+![GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+
 ---
-🚀 Connect with me: [LinkedIn](#) | [Twitter](#)
+🚀 Connect with me: [LinkedIn](#)
